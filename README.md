@@ -5,6 +5,14 @@ Linux Demonstration center
 Sur un des ordinateur du Fablab faire des machines virtuelles avec les différents OS Linux pour les gens puissent les tester. 
 
 
+Pour la partie plus technique elle seront exécuté sur Virtual Box dans sa version 6.1   https://www.virtualbox.org 
+
+Pour installer Virtual box sous linux Mint :
+
+
+
+
+
 OS qui seront probalement présent: 
 
 - Linux Mint 20.2 

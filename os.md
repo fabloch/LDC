@@ -7,8 +7,8 @@
 - Ubuntu 20.04 LTS :https://www.ubuntu-fr.org/download/
 - Manjaro 21.1 :https://manjaro.org/download/
 - Debian 11.1 :
-- Deepin 20 :
-- Alma Linux 8.4 :
+- Deepin 20 :http://xhwpm.mjt.lu
+- Alma Linux 8.4 :https://mirrors.almalinux.org/isos.html
 
 
 ## Windows 
@@ -17,4 +17,4 @@
 
 ## Autres OS 
 
-- FreeBSD :
+- FreeBSD :https://www.freebsd.org/where/

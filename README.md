@@ -1,9 +1,18 @@
 # LDC
-Linux Demonstration center 
+Linux Demonstration Center 
+
+
+# But de la démarche 
+
+Le but de la démarche de proposer différent système d'exploitation pour les personne désireuse de tester un de ces système d'exploitation qui es présent dans notre Linux Demonstration Center. Pour que ces personnes puissent tester très facilement et simplement les différents système d'exploitation qui sont disponibles. 
+
+Ce système es plus facile à mettre en œuvre que si on devais ne pas virtualiser ses système d'exploitation. 
 
 
 Sur un des ordinateur du Fablab faire des machines virtuelles avec les différents OS Linux pour les gens puissent les tester. 
 
+
+# Technique 
 
 Pour la partie plus technique elle seront exécuté sur Virtual Box dans sa version 6.1   https://www.virtualbox.org 
 
